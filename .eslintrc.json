@@ -12,6 +12,7 @@
         "ecmaVersion": 12
     },
     "rules": {
-      "no-console": "off"
+        "eol-last": 0,
+        "no-console": 0
     }
 }
